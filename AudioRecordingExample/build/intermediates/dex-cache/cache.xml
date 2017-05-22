@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_5fc663027890f3fc616406c89d3334870cd212ca\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_44a95a3033033a8041ada73702a9152a76e47708\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="111a9c3dd06e75cc291c27e39fe51861bb862d9b">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eb6cc6358b89d8e89ccf4b21412ec889649ac485\classes.dex" />
+    </item>
+    <item
+        jar="C:\IDE\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_aee4caec430e2eeaab75807ce394ed3d2afd3e49\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1d7224a85b725df371b98f44d3a2a0b497ac55c">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_154031f3e4fd873fe10cff50120191f72f540f49\classes.dex" />
+    </item>
+
+</items>
