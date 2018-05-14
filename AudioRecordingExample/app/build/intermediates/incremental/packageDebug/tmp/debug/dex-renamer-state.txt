@@ -1,0 +1,4 @@
+#Mon May 14 14:05:50 CEST 2018
+base.0=/Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

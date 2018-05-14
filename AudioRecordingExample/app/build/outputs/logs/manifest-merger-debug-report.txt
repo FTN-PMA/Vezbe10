@@ -1,63 +1,103 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:3:5-48
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
-	android:versionCode
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:21.0.3] D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:11:4-79
+ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:11:4-79
 	android:name
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:11:21-77
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:11:21-77
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:12:4-70
+ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:12:4-70
 	android:name
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:12:21-67
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:12:21-67
 application
-ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:14:5-28:19
-MERGED from [com.android.support:support-v4:21.0.3] D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:14:5-28:19
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:17:9-41
-	android:allowBackup
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:16:9-45
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:18:9-40
 activity#com.example.audiorecordingexample.MainActivity
-ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:19:9-27:20
+ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:19:9-27:20
 	android:label
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:21:13-45
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:21:13-45
 	android:name
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:20:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:22:13-26:29
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\AudioRecordingExample\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:25:27-74
