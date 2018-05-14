@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\IDE\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\VideoCaptureExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_aee4caec430e2eeaab75807ce394ed3d2afd3e49\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\VideoCaptureExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\VideoCaptureExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_5d32870fc02075b91178a43d2aa8264544889fe7\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\VideoCaptureExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\VideoCaptureExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_d97d70436ceeb6b792607ce56006ebb949693902\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\VideoCaptureExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="34799ccc1321e52f2cfc2895f68dabfdb67ce79c">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\VideoCaptureExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e1dc5817405ba4641b3b2886a9cce27c3487933c\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\VideoCaptureExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1f9ed22a9a69daed6765765dd8f12a0b9b8e29b">
+        <dex dex="D:\Nastava\PMA\2016-letnji\Vezbe\Vezbe8\VideoCaptureExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c128288dd1309102693683baed5ffb2bda395a76\classes.dex" />
+    </item>
+
+</items>

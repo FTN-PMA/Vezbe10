@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:design:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/141c1de33b2bc63462c8782c17c1e713/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a48b4043810e4d3a51620823414eedce/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/0f144eb76e9af745ad6cc8e538821286/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/e5b5b0fb30eb4ff078b6c34d1f2024ff/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/09fcc1cc5e59711ce643aafbf9ce0447/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:3:5-26
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:12:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:14:9-53
+application
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:17:5-42:19
+MERGED from [com.android.support:design:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/141c1de33b2bc63462c8782c17c1e713/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/141c1de33b2bc63462c8782c17c1e713/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a48b4043810e4d3a51620823414eedce/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a48b4043810e4d3a51620823414eedce/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/0f144eb76e9af745ad6cc8e538821286/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/0f144eb76e9af745ad6cc8e538821286/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/e5b5b0fb30eb4ff078b6c34d1f2024ff/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/e5b5b0fb30eb4ff078b6c34d1f2024ff/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:21:9-53
+provider#rs.reviewer.GenericFileProvider
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:grantUriPermissions
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:25:13-61
+	android:exported
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:24:13-59
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:28:13-30:57
+	android:resource
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:30:17-55
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:29:17-67
+activity#rs.reviewer.MainActivity
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:34:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/141c1de33b2bc63462c8782c17c1e713/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/141c1de33b2bc63462c8782c17c1e713/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a48b4043810e4d3a51620823414eedce/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a48b4043810e4d3a51620823414eedce/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/0f144eb76e9af745ad6cc8e538821286/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/0f144eb76e9af745ad6cc8e538821286/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/e5b5b0fb30eb4ff078b6c34d1f2024ff/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/e5b5b0fb30eb4ff078b6c34d1f2024ff/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/09fcc1cc5e59711ce643aafbf9ce0447/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/09fcc1cc5e59711ce643aafbf9ce0447/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a48b4043810e4d3a51620823414eedce/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/milossimic/Desktop/Vezbe10/PictureCapture/app/src/main/AndroidManifest.xml
