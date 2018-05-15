@@ -22,7 +22,7 @@
 
         <provider
             android:name="rs.reviewer.GenericFileProvider"
-            android:authorities="rs.aleph.termin29.provider"
+            android:authorities="rs.reviewer.provider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
