@@ -2,11 +2,15 @@ package com.example.audiorecordingexample;
 
 import java.io.IOException;
 
+import android.Manifest;
 import android.app.Activity;
+import android.content.pm.PackageManager;
 import android.media.MediaPlayer;
 import android.media.MediaRecorder;
 import android.os.Bundle;
 import android.os.Environment;
+import android.support.annotation.NonNull;
+import android.support.v4.app.ActivityCompat;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -18,30 +22,53 @@ public class MainActivity extends Activity {
 	private String outputFile = null;
 	private Button start, stop, play;
 
+	// Requesting permission to RECORD_AUDIO
+	private boolean permissionToRecordAccepted = false;
+	private String [] permissions = {Manifest.permission.RECORD_AUDIO};
+
+	private static final int REQUEST_RECORD_AUDIO_PERMISSION = 200;
+
+	private MediaRecorder mediaRecorder;
+
+	@Override
+	public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+		super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+		switch (requestCode){
+			case REQUEST_RECORD_AUDIO_PERMISSION:
+				permissionToRecordAccepted  = grantResults[0] == PackageManager.PERMISSION_GRANTED;
+				break;
+		}
+		if (!permissionToRecordAccepted ) finish();
+
+	}
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+		ActivityCompat.requestPermissions(this, permissions, REQUEST_RECORD_AUDIO_PERMISSION);
+
 		start = (Button) findViewById(R.id.button1);
 		stop = (Button) findViewById(R.id.button2);
 		play = (Button) findViewById(R.id.button3);
 
 		stop.setEnabled(false);
 		play.setEnabled(false);
-		outputFile = Environment.getExternalStorageDirectory()
-				.getAbsolutePath() + "/myrecording.3gp";
+		outputFile = getExternalCacheDir().getAbsolutePath() + "/myrecording.3gp";
 		;
 
 		myAudioRecorder = new MediaRecorder();
-		myAudioRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);
-		myAudioRecorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
-		myAudioRecorder.setAudioEncoder(MediaRecorder.OutputFormat.AMR_NB);
-		myAudioRecorder.setOutputFile(outputFile);
 
 	}
 
 	public void start(View view) {
 		try {
+			myAudioRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);
+			myAudioRecorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
+			myAudioRecorder.setAudioEncoder(MediaRecorder.OutputFormat.AMR_NB);
+			myAudioRecorder.setOutputFile(outputFile);
+
 			myAudioRecorder.prepare();
 			myAudioRecorder.start();
 		} catch (IllegalStateException e) {

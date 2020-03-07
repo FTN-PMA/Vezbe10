@@ -4,12 +4,12 @@ ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
-MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/85e203e30c771179c2c9a26001c1ffd0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c33198a1dd7b9693933d9ef14526b7ca/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/472a931ed413c2ba84b4fa5dcc016fb3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/1b962b7b211383021b9be4b52b73e60a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/b23062dcea56e00186a3444d1b627d6f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/6a957fd9e2c6cbdf66eea39fdaf8ab7a/AndroidManifest.xml:17:1-27:12
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:2:1-30:12
@@ -31,22 +31,22 @@ uses-sdk
 ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/85e203e30c771179c2c9a26001c1ffd0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/85e203e30c771179c2c9a26001c1ffd0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c33198a1dd7b9693933d9ef14526b7ca/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c33198a1dd7b9693933d9ef14526b7ca/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/472a931ed413c2ba84b4fa5dcc016fb3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/472a931ed413c2ba84b4fa5dcc016fb3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/1b962b7b211383021b9be4b52b73e60a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/1b962b7b211383021b9be4b52b73e60a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/b23062dcea56e00186a3444d1b627d6f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/b23062dcea56e00186a3444d1b627d6f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/6a957fd9e2c6cbdf66eea39fdaf8ab7a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/6a957fd9e2c6cbdf66eea39fdaf8ab7a/AndroidManifest.xml:21:5-23:58
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
 INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/85e203e30c771179c2c9a26001c1ffd0/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:9:9-38
 		INJECTED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml
@@ -65,18 +65,18 @@ ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/
 		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:12:21-67
 application
 ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:14:5-28:19
-MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/cc9e6fb4ba0888a9ac2470938b85549d/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/1674d01bf7ac4c9eaa3a499c3b6972d7/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f0abe418bbe6cb27722d7d5fc6fa420/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7d06542c6c43a1a380b8b49a3f229576/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38b8da5f699608640a022b4ef4d7e980/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/b6e99f8cc63c1ea1ca7ba0adc584fa15/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/85e203e30c771179c2c9a26001c1ffd0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/85e203e30c771179c2c9a26001c1ffd0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c33198a1dd7b9693933d9ef14526b7ca/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c33198a1dd7b9693933d9ef14526b7ca/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/472a931ed413c2ba84b4fa5dcc016fb3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/472a931ed413c2ba84b4fa5dcc016fb3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/1b962b7b211383021b9be4b52b73e60a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/1b962b7b211383021b9be4b52b73e60a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/b23062dcea56e00186a3444d1b627d6f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/b23062dcea56e00186a3444d1b627d6f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/6a957fd9e2c6cbdf66eea39fdaf8ab7a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/milossimic/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/6a957fd9e2c6cbdf66eea39fdaf8ab7a/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /Users/milossimic/Desktop/Vezbe10/AudioRecordingExample/app/src/main/AndroidManifest.xml:17:9-41
 	android:icon
