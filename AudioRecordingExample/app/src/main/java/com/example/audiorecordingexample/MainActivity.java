@@ -8,14 +8,13 @@ import android.content.pm.PackageManager;
 import android.media.MediaPlayer;
 import android.media.MediaRecorder;
 import android.os.Bundle;
-import android.os.Environment;
-import android.support.annotation.NonNull;
-import android.support.v4.app.ActivityCompat;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+import androidx.annotation.NonNull;
+import androidx.core.app.ActivityCompat;
 
 public class MainActivity extends Activity {
 	private MediaRecorder myAudioRecorder;
@@ -27,8 +26,6 @@ public class MainActivity extends Activity {
 	private String [] permissions = {Manifest.permission.RECORD_AUDIO};
 
 	private static final int REQUEST_RECORD_AUDIO_PERMISSION = 200;
-
-	private MediaRecorder mediaRecorder;
 
 	@Override
 	public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {

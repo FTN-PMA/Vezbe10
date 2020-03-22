@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PictureCapture.iml" filepath="$PROJECT_DIR$/PictureCapture.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PictureCapture.iml" filepath="$PROJECT_DIR$/PictureCapture.iml" group="PictureCapture" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="PictureCapture/app" />
     </modules>
   </component>
 </project>
